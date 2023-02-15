@@ -8,4 +8,4 @@ Notes and Snippets from John Smilga (Coding Addict) course on Node.js and Expres
 
 [Coding Addict youtube channel](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
 
-[next course - projects](https://www.youtube.com/watch?v=qwfE7fSVaZM&ab_channel=freeCodeCamp.org)
+[Projects course](https://www.youtube.com/watch?v=qwfE7fSVaZM&ab_channel=freeCodeCamp.org)
